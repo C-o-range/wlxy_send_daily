@@ -28,4 +28,4 @@ jobs:
           pip3 install -r requirements.txt
       - name: qqmail
         run: |
-          python3 物流学院文件推送.py
+          python3 wlxy_send_news.py
