@@ -85,9 +85,9 @@ try:
             # 发件人邮箱授权码而不是邮箱密码，授权码由邮箱官网可设置生成
             login_pass = 'tavkjnifvjoodgch'
             # 发送者
-            sendName = "C_Orange <calhe@qq.com>"
+            sendName = " <2746806965@qq.com>"
             # 接收者
-            # resName = "❤GIN🌙<2487811390@qq.com>;"
+            # resName = "❤GIN🌙<28487811390@qq.com>;"
 
             for mail_id in ['2487811390', '3125178611']:
                 sendQQ(f'{mail_id}@qq.com')
